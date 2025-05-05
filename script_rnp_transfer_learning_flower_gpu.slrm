@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#SBATCH --nodes=1
+#SBATCH --job-name=rnp_tl_flowers_lfmm
+#SBATCH --ntasks-per-node=4
+#SBATCH --time=12:00:00
+#SBATCH --partition=ibtesla
+#SBATCH --gres=gpu:1
+#SBATCH --qos=gpu
+
+module load conda
+source activate lfmm_rnp_flowers
+
+python rnp_transfer_learning_flowers_lfmm.py

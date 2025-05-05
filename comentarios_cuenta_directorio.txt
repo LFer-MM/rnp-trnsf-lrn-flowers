@@ -1,0 +1,11 @@
+Se solicito la cuenta y directorio donde se realizo el trabajo en Ocotillo/Choya.
+
+Mi cuenta de usuario es: rc_lcc_08 para Ocotillo, y rn_lcc_8 para Choya.
+
+Sin embargo se tuvo problemas accesando, y dado que algunos compañeros de igual manera
+tuvieron problemas al serles interrumpidos los trabajos, se opto por realizar el trabajo
+en Google Colab.
+
+Adjunto se encuentra el enlace a la Libreta de Jupyter (igual se adjunto en Teams):
+
+https://colab.research.google.com/drive/1pvvK7QavlD7WAty5S3h1myDzqYpXPIDQ?usp=sharing
